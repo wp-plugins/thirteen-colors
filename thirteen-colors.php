@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Thirteen Colors
- * Plugin URI: http://wordpress.org/plugins/thirteen-colors
+ * Plugin URI: http://celloexpressions.com/plugins/thirteen-colors
  * Description: Customize the bold colors of the Twenty Thirteen Theme, directly within the customizer.
  * Version: 1.0
  * Author: Nick Halsey
